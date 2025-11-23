@@ -1,0 +1,30 @@
+# Flying GEM Brain - Requirements
+# Python 3.8+
+
+# Core dependencies
+pynats>=0.8.0
+psycopg2-binary>=2.9.0
+prometheus-client>=0.16.0
+pyyaml>=6.0
+
+# Computer vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+pillow>=10.0.0
+
+# MAVLink communication
+pymavlink>=2.4.40
+pyserial>=3.5
+
+# Hailo AI inference (when available)
+# hailo-platform  # Install from Hailo SDK
+
+# Simulation (optional)
+pygame>=2.5.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Logging and monitoring
+structlog>=23.1.0
