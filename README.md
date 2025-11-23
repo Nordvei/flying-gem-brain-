@@ -2,7 +2,7 @@
 
 **Autonomous Swarm Intelligence for Tactical Drones**
 
-[![Status](https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge)](https://infinity-folder.no)
+[![Status](https://img.shields.io/badge/Status-Development-yellow?style=for-the-badge)](https://infinity-folder.com)
 [![License](https://img.shields.io/badge/License-Apache%202.0-green?style=for-the-badge)](LICENSE)
 
 > **1 operator controls 10+ autonomous drones** using production-proven edge AI technology
@@ -77,9 +77,15 @@ The GEM (Global-Edge-Mesh) architecture has been running **24/7 in production** 
 
 ## 📊 Live Production Proof
 
-**IFP Platform runs the same GEM Framework 24/7:**
+The GEM Framework has been proven in production with IFP Edge, running 24/7 since November 2024 coordinating 9 autonomous agents across distributed infrastructure.
 
-[View Live Platform →](https://infinity-folder.no/platform.html)
+Flying GEM Brain adapts this same production-proven architecture for autonomous drone swarms.
+
+**[View Flying GEM Brain →](https://infinity-folder.com)**
+
+**[View Technical Details →](https://infinity-folder.com/technology.html)**
+
+**[View Platform Proof →](https://infinity-folder.com/platform.html)**
 
 **What this proves:**
 - ✅ Autonomous coordination works (9 agents, no central controller)
@@ -166,10 +172,11 @@ Apache License 2.0 - See [LICENSE](LICENSE)
 
 ## 🔗 Links
 
-- **Website:** [infinity-folder.no](https://infinity-folder.no)
-- **IFP Platform (Proof):** [infinity-folder.no/platform](https://infinity-folder.no/platform.html)
+- **Website:** [infinity-folder.com](https://infinity-folder.com)
+- **Technology:** [infinity-folder.com/technology](https://infinity-folder.com/technology.html)
+- **Platform Proof:** [infinity-folder.com/platform](https://infinity-folder.com/platform.html)
 - **Contact:** info@infinity-folder.no
-- **LinkedIn:** [Andriy Baygerych](https://www.linkedin.com/in/andriy-baygerych-796579352)
+- **GitHub:** [github.com/Nordvei](https://github.com/Nordvei)
 
 ---
 

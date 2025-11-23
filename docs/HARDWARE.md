@@ -548,4 +548,4 @@ Performance gain: 60+ FPS, cm-accuracy GPS, BVLOS capability
 
 **Safety First:** Always follow local aviation regulations and maintain visual line of sight during testing.
 
-**For assembly videos and detailed guides, visit:** [infinity-folder.no](https://infinity-folder.no)
+**For assembly videos and detailed guides, visit:** [infinity-folder.com](https://infinity-folder.com)
